@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Heads Up</string>
+    <string name="all_news">All News</string>
+    <string name="headsup">HeadsUp</string>
+    <string name="no_data_found">Data not found</string>
+    <string name="saved_news">Saved News</string>
+</resources>
